@@ -1,1 +1,1 @@
-# Osnovi_cpp
+Курс "Основы С++" от GeekBrains
