@@ -1,6 +1,0 @@
-C++ was designed with an orientation toward system programming and embedded,
-resource-constrained software and large systems, with performance, efficiency,
-and flexibility of use as its design highlights.[10] C++ has also been found useful
-in many other contexts, with key strengths being software infrastructure and resource-constrained
-applications,[10] including desktop applications, video games, servers (e.g. e-commerce, web search,
-or SQL servers), and performance-critical applications (e.g. telephone switches or space probes).
